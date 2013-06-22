@@ -1,0 +1,10 @@
+{
+  "name": "ming-errors",
+  "description": "A pattern to display application errors to the user",
+  "homepage": "https://github.com/ming-kernel/ming-errors",
+  "author": "Hu Ming",
+  "version": "0.1.0",
+  "git": "https://github.com/ming-kernel/ming-errors.git",
+  "packages": {
+  }
+}
